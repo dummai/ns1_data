@@ -19,11 +19,11 @@ Viral loads (RNA levels) and NS1 levels from the pediatric dengue patients by ti
 ### Vload_clearance_Adult.csv
 Times from fever onset to viral load clearance from the adult dengue patients.
 
-#### Vload_clearance_Ped.csv
+### Vload_clearance_Ped.csv
 Times from fever onset to viral load clearance from the pediatric dengue patients.
 
 ### NS1_clearance_Adult.csv
 Times from fever onset to NS1 clearance from the adult dengue patients.
 
-#### NS1_clearance_Ped.csv
+### NS1_clearance_Ped.csv
 Times from fever onset to NS1 clearance from the pediatric dengue patients.
