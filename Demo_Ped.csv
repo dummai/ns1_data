@@ -1,211 +1,211 @@
-SNO,serotype,serology,final_diagnosis,site,Age,sex
-1,Dengue 4,Secondary,DHF,Khon Kaen,11.5,Male
+SNO,serotype,serology,final_diagnosis,site,age,sex
+1,Dengue 4,Secondary,DHF,Khon Kaen,12,Male
 2,Dengue 4,Secondary,DF,Khon Kaen,9,Male
-3,Dengue 4,Secondary,DHF,Khon Kaen,9.3,Female
-4,Dengue 4,Secondary,DHF,Khon Kaen,8.9,Male
-5,Dengue 4,Secondary,DHF,Khon Kaen,11.7,Male
-6,Dengue 4,Secondary,DHF,Khon Kaen,12.1,Male
-7,Dengue 4,Secondary,DHF,Khon Kaen,14.2,Male
-8,Dengue 4,Secondary,DHF,Khon Kaen,9.2,Male
+3,Dengue 4,Secondary,DHF,Khon Kaen,9,Female
+4,Dengue 4,Secondary,DHF,Khon Kaen,9,Male
+5,Dengue 4,Secondary,DHF,Khon Kaen,12,Male
+6,Dengue 4,Secondary,DHF,Khon Kaen,12,Male
+7,Dengue 4,Secondary,DHF,Khon Kaen,14,Male
+8,Dengue 4,Secondary,DHF,Khon Kaen,9,Male
 9,Dengue 4,Secondary,DF,Khon Kaen,10,Female
-10,Dengue 4,Secondary,DHF,Songkhla,9.7,Female
-11,Dengue 4,Secondary,DHF,Songkhla,10.4,Female
-12,Dengue 2,Secondary,DF,Songkhla,8.7,Male
-13,Dengue 2,Secondary,DF,Songkhla,6.6,Female
-14,Dengue 4,Secondary,DHF,Khon Kaen,9.3,Male
+10,Dengue 4,Secondary,DHF,Songkhla,10,Female
+11,Dengue 4,Secondary,DHF,Songkhla,10,Female
+12,Dengue 2,Secondary,DF,Songkhla,8,Male
+13,Dengue 2,Secondary,DF,Songkhla,6,Female
+14,Dengue 4,Secondary,DHF,Khon Kaen,10,Male
 15,Dengue 4,Secondary,DHF,Khon Kaen,13,Male
 16,Dengue 2,Secondary,DF,Songkhla,13,Male
-17,Dengue 4,Secondary,DHF,Songkhla,8.1,Male
-18,Dengue 4,Secondary,DF,Songkhla,12.3,Female
-19,Dengue 4,Secondary,DF,Songkhla,9.9,Male
-20,Dengue 4,Secondary,DF,Songkhla,11.6,Male
-21,Dengue 4,Secondary,DF,Songkhla,6.1,Female
-22,Dengue 4,Secondary,DF,Songkhla,6.7,Female
-23,Dengue 4,Secondary,DF,Songkhla,5.5,Male
-24,Dengue 4,Secondary,DF,Khon Kaen,12.5,Male
-25,Dengue 4,Secondary,DHF,Khon Kaen,14.9,Male
-26,Dengue 4,Secondary,DHF,Khon Kaen,10.7,Male
-27,Dengue 4,Secondary,DF,Khon Kaen,13.8,Male
-28,Dengue 2,Secondary,DF,Khon Kaen,14.5,Male
-29,Dengue 2,Secondary,DHF,Songkhla,7.8,Female
-30,Dengue 4,Secondary,DHF,Songkhla,10.6,Male
-31,Dengue 3,Secondary,DHF,Songkhla,8.4,Female
-32,Dengue 3,Secondary,DHF,Songkhla,12.5,Male
-33,Dengue 1,Secondary,DHF,Songkhla,12.3,Female
-34,Dengue 1,Secondary,DF,Songkhla,11.6,Female
-35,Dengue 1,Secondary,DHF,Songkhla,12.9,Female
-36,Dengue 1,Secondary,DF,Songkhla,12.3,Male
-37,Dengue 1,Secondary,DHF,Songkhla,13.4,Male
-38,Dengue 3,Secondary,DF,Songkhla,11.4,Female
-39,Dengue 2,Secondary,DHF,Songkhla,9.4,Male
-40,Dengue 1,Secondary,DHF,Songkhla,5.3,Female
-41,Dengue 1,Secondary,DF,Songkhla,7.1,Female
-42,Dengue 1,Secondary,DF,Songkhla,11.1,Female
-43,Dengue 1,Secondary,DF,Songkhla,10.1,Male
-44,Dengue 1,Secondary,DF,Songkhla,11.8,Female
+17,Dengue 4,Secondary,DHF,Songkhla,8,Male
+18,Dengue 4,Secondary,DF,Songkhla,12,Female
+19,Dengue 4,Secondary,DF,Songkhla,10,Male
+20,Dengue 4,Secondary,DF,Songkhla,12,Male
+21,Dengue 4,Secondary,DF,Songkhla,6,Female
+22,Dengue 4,Secondary,DF,Songkhla,7,Female
+23,Dengue 4,Secondary,DF,Songkhla,5,Male
+24,Dengue 4,Secondary,DF,Khon Kaen,13,Male
+25,Dengue 4,Secondary,DHF,Khon Kaen,15,Male
+26,Dengue 4,Secondary,DHF,Khon Kaen,11,Male
+27,Dengue 4,Secondary,DF,Khon Kaen,14,Male
+28,Dengue 2,Secondary,DF,Khon Kaen,14,Male
+29,Dengue 2,Secondary,DHF,Songkhla,8,Female
+30,Dengue 4,Secondary,DHF,Songkhla,11,Male
+31,Dengue 3,Secondary,DHF,Songkhla,9,Female
+32,Dengue 3,Secondary,DHF,Songkhla,13,Male
+33,Dengue 1,Secondary,DHF,Songkhla,12,Female
+34,Dengue 1,Secondary,DF,Songkhla,11,Female
+35,Dengue 1,Secondary,DHF,Songkhla,13,Female
+36,Dengue 1,Secondary,DF,Songkhla,12,Male
+37,Dengue 1,Secondary,DHF,Songkhla,13,Male
+38,Dengue 3,Secondary,DF,Songkhla,11,Female
+39,Dengue 2,Secondary,DHF,Songkhla,9,Male
+40,Dengue 1,Secondary,DHF,Songkhla,5,Female
+41,Dengue 1,Secondary,DF,Songkhla,7,Female
+42,Dengue 1,Secondary,DF,Songkhla,11,Female
+43,Dengue 1,Secondary,DF,Songkhla,10,Male
+44,Dengue 1,Secondary,DF,Songkhla,11,Female
 45,Dengue 1,Secondary,DHF,Songkhla,13,Female
-46,Dengue 3,Secondary,DF,Khon Kaen,7.5,Female
-47,Dengue 1,Secondary,DF,Khon Kaen,9.1,Female
-48,Dengue 3,Secondary,DHF,Khon Kaen,9.7,Male
-49,Dengue 1,Secondary,DHF,Khon Kaen,13.3,Female
-50,Dengue 1,Secondary,DHF,Khon Kaen,14.8,Male
-51,Dengue 1,Secondary,DHF,Khon Kaen,14.5,Male
-52,Dengue 2,Secondary,DHF,Khon Kaen,9.1,Male
-53,Dengue 2,Secondary,DHF,Khon Kaen,10.6,Female
+46,Dengue 3,Secondary,DF,Khon Kaen,8,Female
+47,Dengue 1,Secondary,DF,Khon Kaen,9,Female
+48,Dengue 3,Secondary,DHF,Khon Kaen,10,Male
+49,Dengue 1,Secondary,DHF,Khon Kaen,13,Female
+50,Dengue 1,Secondary,DHF,Khon Kaen,15,Male
+51,Dengue 1,Secondary,DHF,Khon Kaen,14,Male
+52,Dengue 2,Secondary,DHF,Khon Kaen,9,Male
+53,Dengue 2,Secondary,DHF,Khon Kaen,10,Female
 54,Dengue 3,Secondary,DHF,Khon Kaen,8,Male
-55,Dengue 1,Secondary,DHF,Khon Kaen,13.6,Female
-56,Dengue 2,Secondary,DF,Khon Kaen,12.4,Male
-57,Dengue 1,Secondary,DF,Khon Kaen,7.6,Male
-58,Dengue 1,Secondary,DF,Songkhla,10.9,Male
-59,Dengue 1,Secondary,DF,Songkhla,7.9,Female
-60,Dengue 1,Primary,DF,Songkhla,9.6,Female
-61,Dengue 1,Secondary,DHF,Songkhla,13.2,Male
-62,Dengue 3,Secondary,DF,Songkhla,6.2,Female
-63,Dengue 3,Secondary,DHF,Songkhla,7.6,Female
-64,Dengue 3,Secondary,DF,Songkhla,5.3,Male
-65,Dengue 1,Secondary,DHF,Songkhla,7.6,Female
-66,Dengue 1,Secondary,DHF,Songkhla,11.7,Female
-67,Dengue 3,Secondary,DHF,Songkhla,12.9,Male
-68,Dengue 1,Secondary,DHF,Songkhla,11.4,Male
-69,Dengue 1,Secondary,DHF,Songkhla,13.9,Male
-70,Dengue 1,Secondary,DHF,Songkhla,4.9,Female
-71,Dengue 3,Secondary,DHF,Songkhla,10.1,Male
-72,Dengue 2,Secondary,DF,Songkhla,5.5,Male
-73,Dengue 1,Secondary,DF,Songkhla,6.8,Male
-74,Dengue 2,Secondary,DF,Songkhla,6.4,Male
-75,Dengue 2,Secondary,DF,Songkhla,7.8,Male
-76,Dengue 4,Secondary,DHF,Khon Kaen,5.9,Male
-77,Dengue 4,Secondary,DHF,Khon Kaen,13.1,Male
-78,Dengue 1,Secondary,DHF,Khon Kaen,14.2,Male
-79,Dengue 3,Secondary,DHF,Khon Kaen,9.4,Male
-80,Dengue 3,Secondary,DF,Khon Kaen,11.6,Male
-81,Dengue 2,Secondary,DF,Khon Kaen,10.2,Female
-82,Dengue 2,Secondary,DHF,Khon Kaen,9.5,Female
-83,Dengue 1,Secondary,DF,Khon Kaen,10.9,Male
-84,Dengue 3,Secondary,DHF,Khon Kaen,13.5,Female
-85,Dengue 1,Secondary,DF,Khon Kaen,9.6,Female
-86,Dengue 1,Secondary,DF,Khon Kaen,12.4,Male
-87,Dengue 1,Secondary,DHF,Khon Kaen,13.5,Female
+55,Dengue 1,Secondary,DHF,Khon Kaen,13,Female
+56,Dengue 2,Secondary,DF,Khon Kaen,12,Male
+57,Dengue 1,Secondary,DF,Khon Kaen,7,Male
+58,Dengue 1,Secondary,DF,Songkhla,11,Male
+59,Dengue 1,Secondary,DF,Songkhla,8,Female
+60,Dengue 1,Primary,DF,Songkhla,10,Female
+61,Dengue 1,Secondary,DHF,Songkhla,14,Male
+62,Dengue 3,Secondary,DF,Songkhla,7,Female
+63,Dengue 3,Secondary,DHF,Songkhla,8,Female
+64,Dengue 3,Secondary,DF,Songkhla,6,Male
+65,Dengue 1,Secondary,DHF,Songkhla,8,Female
+66,Dengue 1,Secondary,DHF,Songkhla,12,Female
+67,Dengue 3,Secondary,DHF,Songkhla,13,Male
+68,Dengue 1,Secondary,DHF,Songkhla,12,Male
+69,Dengue 1,Secondary,DHF,Songkhla,14,Male
+70,Dengue 1,Secondary,DHF,Songkhla,5,Female
+71,Dengue 3,Secondary,DHF,Songkhla,10,Male
+72,Dengue 2,Secondary,DF,Songkhla,6,Male
+73,Dengue 1,Secondary,DF,Songkhla,7,Male
+74,Dengue 2,Secondary,DF,Songkhla,6,Male
+75,Dengue 2,Secondary,DF,Songkhla,7,Male
+76,Dengue 4,Secondary,DHF,Khon Kaen,6,Male
+77,Dengue 4,Secondary,DHF,Khon Kaen,13,Male
+78,Dengue 1,Secondary,DHF,Khon Kaen,15,Male
+79,Dengue 3,Secondary,DHF,Khon Kaen,10,Male
+80,Dengue 3,Secondary,DF,Khon Kaen,12,Male
+81,Dengue 2,Secondary,DF,Khon Kaen,11,Female
+82,Dengue 2,Secondary,DHF,Khon Kaen,10,Female
+83,Dengue 1,Secondary,DF,Khon Kaen,11,Male
+84,Dengue 3,Secondary,DHF,Khon Kaen,13,Female
+85,Dengue 1,Secondary,DF,Khon Kaen,10,Female
+86,Dengue 1,Secondary,DF,Khon Kaen,12,Male
+87,Dengue 1,Secondary,DHF,Khon Kaen,13,Female
 88,Dengue 1,Secondary,DHF,Songkhla,13,Male
-89,Dengue 2,Secondary,DF,Songkhla,9.1,Male
-90,Dengue 1,Secondary,DF,Songkhla,11.9,Female
-91,Dengue 2,Secondary,DF,Songkhla,13.3,Female
-92,Dengue 3,Secondary,DF,Songkhla,4.6,Female
-93,Dengue 3,Secondary,DHF,Songkhla,13.5,Female
+89,Dengue 2,Secondary,DF,Songkhla,9,Male
+90,Dengue 1,Secondary,DF,Songkhla,12,Female
+91,Dengue 2,Secondary,DF,Songkhla,13,Female
+92,Dengue 3,Secondary,DF,Songkhla,5,Female
+93,Dengue 3,Secondary,DHF,Songkhla,13,Female
 94,Dengue 2,Secondary,DHF,Songkhla,11,Female
-95,Dengue 1,Secondary,DF,Songkhla,5.2,Male
+95,Dengue 1,Secondary,DF,Songkhla,5,Male
 96,Dengue 1,Primary,DF,Songkhla,11,Male
-97,Dengue 3,Primary,DF,Songkhla,5.2,Male
-98,Dengue 2,Secondary,DF,Songkhla,8.3,Female
-99,Dengue 2,Secondary,DHF,Songkhla,12.2,Male
-100,Dengue 2,Secondary,DF,Songkhla,12.9,Female
-101,Dengue 3,Secondary,DHF,Songkhla,13.2,Female
-102,Dengue 1,Secondary,DHF,Songkhla,5.3,Female
-103,Dengue 3,Secondary,DF,Songkhla,10.6,Male
-104,Dengue 1,Secondary,DF,Songkhla,9.5,Female
-105,Dengue 3,Secondary,DHF,Khon Kaen,9.5,Male
-106,Dengue 3,Secondary,DF,Khon Kaen,11.2,Female
-107,Dengue 2,Secondary,DHF,Khon Kaen,9.8,Male
-108,Dengue 2,Secondary,DF,Khon Kaen,7.9,Male
-109,Dengue 1,Secondary,DF,Khon Kaen,9.6,Female
-110,Dengue 2,Secondary,DHF,Khon Kaen,7.9,Male
-111,Dengue 2,Secondary,DF,Khon Kaen,6.5,Female
-112,Dengue 2,Secondary,DHF,Khon Kaen,7.8,Female
-113,Dengue 2,Secondary,DF,Khon Kaen,10.5,Female
-114,Dengue 2,Secondary,DHF,Khon Kaen,7.2,Female
-115,Dengue 3,Secondary,DF,Khon Kaen,7.2,Male
-116,Dengue 2,Secondary,DHF,Khon Kaen,10.1,Male
-117,Dengue 1,Secondary,DF,Khon Kaen,10.9,Female
-118,Dengue 2,Secondary,DF,Khon Kaen,9.1,Female
-119,Dengue 2,Secondary,DHF,Khon Kaen,12.3,Female
+97,Dengue 3,Primary,DF,Songkhla,5,Male
+98,Dengue 2,Secondary,DF,Songkhla,8,Female
+99,Dengue 2,Secondary,DHF,Songkhla,12,Male
+100,Dengue 2,Secondary,DF,Songkhla,13,Female
+101,Dengue 3,Secondary,DHF,Songkhla,13,Female
+102,Dengue 1,Secondary,DHF,Songkhla,5,Female
+103,Dengue 3,Secondary,DF,Songkhla,10,Male
+104,Dengue 1,Secondary,DF,Songkhla,9,Female
+105,Dengue 3,Secondary,DHF,Khon Kaen,10,Male
+106,Dengue 3,Secondary,DF,Khon Kaen,11,Female
+107,Dengue 2,Secondary,DHF,Khon Kaen,10,Male
+108,Dengue 2,Secondary,DF,Khon Kaen,8,Male
+109,Dengue 1,Secondary,DF,Khon Kaen,10,Female
+110,Dengue 2,Secondary,DHF,Khon Kaen,8,Male
+111,Dengue 2,Secondary,DF,Khon Kaen,6,Female
+112,Dengue 2,Secondary,DHF,Khon Kaen,8,Female
+113,Dengue 2,Secondary,DF,Khon Kaen,10,Female
+114,Dengue 2,Secondary,DHF,Khon Kaen,7,Female
+115,Dengue 3,Secondary,DF,Khon Kaen,7,Male
+116,Dengue 2,Secondary,DHF,Khon Kaen,10,Male
+117,Dengue 1,Secondary,DF,Khon Kaen,11,Female
+118,Dengue 2,Secondary,DF,Khon Kaen,9,Female
+119,Dengue 2,Secondary,DHF,Khon Kaen,12,Female
 120,Dengue 2,Secondary,DHF,Khon Kaen,6,Male
-121,Dengue 2,Secondary,DHF,Khon Kaen,11.2,Male
-122,Dengue 3,Secondary,DHF,Khon Kaen,7.3,Male
-123,Dengue 2,Secondary,DHF,Songkhla,10.6,Male
-124,Dengue 2,Secondary,DF,Songkhla,10.6,Female
-125,Dengue 3,Secondary,DHF,Songkhla,13.4,Female
+121,Dengue 2,Secondary,DHF,Khon Kaen,11,Male
+122,Dengue 3,Secondary,DHF,Khon Kaen,7,Male
+123,Dengue 2,Secondary,DHF,Songkhla,11,Male
+124,Dengue 2,Secondary,DF,Songkhla,11,Female
+125,Dengue 3,Secondary,DHF,Songkhla,14,Female
 126,Dengue 3,Secondary,DF,Songkhla,11,Female
-127,Dengue 2,Secondary,DHF,Khon Kaen,14.5,Male
-128,Dengue 2,Secondary,DF,Khon Kaen,8.7,Female
-129,Dengue 2,Secondary,DHF,Khon Kaen,7.6,Male
-130,Dengue 3,Secondary,DF,Khon Kaen,12.3,Female
-131,Dengue 2,Secondary,DF,Khon Kaen,12.8,Male
-132,Dengue 2,Secondary,DHF,Khon Kaen,12.8,Male
-133,Dengue 3,Secondary,DF,Khon Kaen,10.3,Female
-134,Dengue 2,Secondary,DHF,Khon Kaen,14.7,Male
-135,Dengue 2,Secondary,DF,Khon Kaen,14.7,Male
-136,Dengue 3,Secondary,DF,Khon Kaen,7.6,Female
-137,Dengue 2,Secondary,DHF,Khon Kaen,9.3,Female
+127,Dengue 2,Secondary,DHF,Khon Kaen,15,Male
+128,Dengue 2,Secondary,DF,Khon Kaen,9,Female
+129,Dengue 2,Secondary,DHF,Khon Kaen,8,Male
+130,Dengue 3,Secondary,DF,Khon Kaen,12,Female
+131,Dengue 2,Secondary,DF,Khon Kaen,13,Male
+132,Dengue 2,Secondary,DHF,Khon Kaen,13,Male
+133,Dengue 3,Secondary,DF,Khon Kaen,10,Female
+134,Dengue 2,Secondary,DHF,Khon Kaen,15,Male
+135,Dengue 2,Secondary,DF,Khon Kaen,15,Male
+136,Dengue 3,Secondary,DF,Khon Kaen,8,Female
+137,Dengue 2,Secondary,DHF,Khon Kaen,9,Female
 138,Dengue 2,Secondary,DHF,Khon Kaen,9,Female
-139,Dengue 2,Secondary,DHF,Khon Kaen,14.7,Male
-140,Dengue 2,Secondary,DHF,Khon Kaen,13.7,Female
-141,Dengue 2,Secondary,DF,Khon Kaen,12.3,Female
+139,Dengue 2,Secondary,DHF,Khon Kaen,15,Male
+140,Dengue 2,Secondary,DHF,Khon Kaen,14,Female
+141,Dengue 2,Secondary,DF,Khon Kaen,12,Female
 142,Dengue 3,Primary,DF,Khon Kaen,7,Male
-143,Dengue 3,Secondary,DF,Khon Kaen,11.5,Female
-144,Dengue 3,Secondary,DHF,Khon Kaen,13.3,Male
-145,Dengue 3,Secondary,DHF,Khon Kaen,14.5,Male
-146,Dengue 1,Secondary,DF,Khon Kaen,13.9,Male
+143,Dengue 3,Secondary,DF,Khon Kaen,11,Female
+144,Dengue 3,Secondary,DHF,Khon Kaen,13,Male
+145,Dengue 3,Secondary,DHF,Khon Kaen,14,Male
+146,Dengue 1,Secondary,DF,Khon Kaen,13,Male
 147,Dengue 3,Secondary,DHF,Songkhla,11,Male
-148,Dengue 3,Secondary,DF,Songkhla,4.7,Male
-149,Dengue 3,Secondary,DF,Songkhla,10.1,Female
-150,Dengue 3,Secondary,DHF,Songkhla,13.7,Male
-151,Dengue 1,Secondary,DHF,Songkhla,11.8,Male
-152,Dengue 3,Secondary,DF,Songkhla,10.7,Male
-153,Dengue 3,Secondary,DHF,Songkhla,9.2,Male
-154,Dengue 3,Secondary,DF,Songkhla,8.1,Male
-155,Dengue 3,Secondary,DHF,Songkhla,7.5,Male
-156,Dengue 3,Secondary,DF,Songkhla,8.7,Female
-157,Dengue 1,Secondary,DHF,Songkhla,13.7,Female
-158,Dengue 4,Secondary,DF,Songkhla,11.4,Female
+148,Dengue 3,Secondary,DF,Songkhla,5,Male
+149,Dengue 3,Secondary,DF,Songkhla,10,Female
+150,Dengue 3,Secondary,DHF,Songkhla,14,Male
+151,Dengue 1,Secondary,DHF,Songkhla,12,Male
+152,Dengue 3,Secondary,DF,Songkhla,11,Male
+153,Dengue 3,Secondary,DHF,Songkhla,9,Male
+154,Dengue 3,Secondary,DF,Songkhla,8,Male
+155,Dengue 3,Secondary,DHF,Songkhla,8,Male
+156,Dengue 3,Secondary,DF,Songkhla,9,Female
+157,Dengue 1,Secondary,DHF,Songkhla,13,Female
+158,Dengue 4,Secondary,DF,Songkhla,11,Female
 159,Dengue 3,Secondary,DF,Songkhla,11,Female
-160,Dengue 4,Secondary,DHF,Songkhla,12.2,Female
-161,Dengue 4,Secondary,DF,Songkhla,13.9,Female
-162,Dengue 2,Secondary,DF,Khon Kaen,10.8,Female
-163,Dengue 1,Secondary,DF,Khon Kaen,12.1,Male
-164,Dengue 2,Secondary,DHF,Khon Kaen,9.9,Male
-165,Dengue 2,Secondary,DHF,Khon Kaen,12.5,Male
-166,Dengue 1,Secondary,DF,Khon Kaen,13.7,Male
-167,Dengue 3,Secondary,DHF,Khon Kaen,14.1,Female
-168,Dengue 3,Secondary,DHF,Khon Kaen,12.5,Female
-169,Dengue 3,Primary,DF,Khon Kaen,14.4,Male
-170,Dengue 4,Secondary,DF,Songkhla,13.6,Male
-171,Dengue 3,Secondary,DHF,Songkhla,8.3,Male
-172,Dengue 3,Secondary,DF,Songkhla,9.4,Male
-173,Dengue 4,Secondary,DF,Songkhla,11.3,Male
-174,Dengue 4,Secondary,DF,Songkhla,9.9,Female
-175,Dengue 4,Secondary,DF,Songkhla,10.5,Female
-176,Dengue 4,Secondary,DF,Songkhla,7.2,Female
-177,Dengue 4,Secondary,DF,Songkhla,12.2,Male
-178,Dengue 4,Secondary,DHF,Songkhla,6.8,Female
-179,Dengue 4,Secondary,DF,Songkhla,5.9,Male
-180,Dengue 4,Secondary,DF,Songkhla,7.5,Female
-181,Dengue 2,Primary,DF,Songkhla,6.9,Male
-182,Dengue 4,Secondary,DHF,Songkhla,12.1,Female
-183,Dengue 4,Secondary,DHF,Songkhla,10.5,Male
-184,Dengue 4,Secondary,DF,Songkhla,10.2,Male
-185,Dengue 4,Secondary,DHF,Songkhla,12.5,Female
-186,Dengue 4,Secondary,DF,Songkhla,10.1,Male
-187,Dengue 4,Secondary,DF,Songkhla,13.7,Male
-188,Dengue 4,Secondary,DHF,Khon Kaen,13.9,Female
-189,Dengue 4,Secondary,DHF,Khon Kaen,14.8,Male
-190,Dengue 4,Secondary,DF,Khon Kaen,13.2,Female
-191,Dengue 4,Secondary,DHF,Khon Kaen,14.8,Male
-192,Dengue 4,Secondary,DHF,Khon Kaen,13.9,Female
+160,Dengue 4,Secondary,DHF,Songkhla,12,Female
+161,Dengue 4,Secondary,DF,Songkhla,13,Female
+162,Dengue 2,Secondary,DF,Khon Kaen,11,Female
+163,Dengue 1,Secondary,DF,Khon Kaen,12,Male
+164,Dengue 2,Secondary,DHF,Khon Kaen,10,Male
+165,Dengue 2,Secondary,DHF,Khon Kaen,13,Male
+166,Dengue 1,Secondary,DF,Khon Kaen,14,Male
+167,Dengue 3,Secondary,DHF,Khon Kaen,14,Female
+168,Dengue 3,Secondary,DHF,Khon Kaen,12,Female
+169,Dengue 3,Primary,DF,Khon Kaen,14,Male
+170,Dengue 4,Secondary,DF,Songkhla,14,Male
+171,Dengue 3,Secondary,DHF,Songkhla,9,Male
+172,Dengue 3,Secondary,DF,Songkhla,10,Male
+173,Dengue 4,Secondary,DF,Songkhla,11,Male
+174,Dengue 4,Secondary,DF,Songkhla,10,Female
+175,Dengue 4,Secondary,DF,Songkhla,11,Female
+176,Dengue 4,Secondary,DF,Songkhla,7,Female
+177,Dengue 4,Secondary,DF,Songkhla,12,Male
+178,Dengue 4,Secondary,DHF,Songkhla,7,Female
+179,Dengue 4,Secondary,DF,Songkhla,6,Male
+180,Dengue 4,Secondary,DF,Songkhla,7,Female
+181,Dengue 2,Primary,DF,Songkhla,7,Male
+182,Dengue 4,Secondary,DHF,Songkhla,12,Female
+183,Dengue 4,Secondary,DHF,Songkhla,10,Male
+184,Dengue 4,Secondary,DF,Songkhla,10,Male
+185,Dengue 4,Secondary,DHF,Songkhla,12,Female
+186,Dengue 4,Secondary,DF,Songkhla,10,Male
+187,Dengue 4,Secondary,DF,Songkhla,13,Male
+188,Dengue 4,Secondary,DHF,Khon Kaen,14,Female
+189,Dengue 4,Secondary,DHF,Khon Kaen,15,Male
+190,Dengue 4,Secondary,DF,Khon Kaen,13,Female
+191,Dengue 4,Secondary,DHF,Khon Kaen,15,Male
+192,Dengue 4,Secondary,DHF,Khon Kaen,14,Female
 193,Dengue 4,Secondary,DF,Khon Kaen,11,Male
-194,Dengue 4,Secondary,DF,Khon Kaen,12.5,Female
-195,Dengue 4,Secondary,DHF,Khon Kaen,12.7,Female
-196,Dengue 2,Secondary,DF,Khon Kaen,11.3,Male
-197,Dengue 4,Secondary,DF,Khon Kaen,11.1,Female
-198,Dengue 4,Secondary,DHF,Khon Kaen,9.2,Male
-199,Dengue 4,Secondary,DHF,Khon Kaen,12.2,Male
-200,Dengue 4,Secondary,DF,Khon Kaen,14.1,Female
-201,Dengue 4,Secondary,DHF,Khon Kaen,13.5,Male
-202,Dengue 4,Secondary,DF,Songkhla,11.5,Female
-203,Dengue 4,Secondary,DF,Songkhla,8.3,Male
-204,Dengue 4,Secondary,DF,Songkhla,12.3,Male
-205,Dengue 4,Secondary,DF,Songkhla,13.2,Male
-206,Dengue 4,Secondary,DHF,Songkhla,10.7,Male
-207,Dengue 4,Secondary,DHF,Songkhla,11.4,Female
-208,Dengue 4,Secondary,DF,Khon Kaen,13.9,Female
-209,Dengue 2,Secondary,DF,Songkhla,4.2,Male
-210,Dengue 4,Secondary,DHF,Songkhla,11.8,Female
+194,Dengue 4,Secondary,DF,Khon Kaen,12,Female
+195,Dengue 4,Secondary,DHF,Khon Kaen,13,Female
+196,Dengue 2,Secondary,DF,Khon Kaen,11,Male
+197,Dengue 4,Secondary,DF,Khon Kaen,11,Female
+198,Dengue 4,Secondary,DHF,Khon Kaen,9,Male
+199,Dengue 4,Secondary,DHF,Khon Kaen,12,Male
+200,Dengue 4,Secondary,DF,Khon Kaen,14,Female
+201,Dengue 4,Secondary,DHF,Khon Kaen,13,Male
+202,Dengue 4,Secondary,DF,Songkhla,12,Female
+203,Dengue 4,Secondary,DF,Songkhla,8,Male
+204,Dengue 4,Secondary,DF,Songkhla,12,Male
+205,Dengue 4,Secondary,DF,Songkhla,13,Male
+206,Dengue 4,Secondary,DHF,Songkhla,10,Male
+207,Dengue 4,Secondary,DHF,Songkhla,11,Female
+208,Dengue 4,Secondary,DF,Khon Kaen,14,Female
+209,Dengue 2,Secondary,DF,Songkhla,5,Male
+210,Dengue 4,Secondary,DHF,Songkhla,11,Female
