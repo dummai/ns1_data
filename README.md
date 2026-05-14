@@ -1,5 +1,6 @@
 # NS1 Data
 Repository for the data from the article, "Dengue Nonstructural Protein 1: A Potential Biomarker for the Evaluation of Antiviral Efficacy in Early-Phase Clinical Trials"
+https://doi.org/10.1098/rstb.2024.0345
 
 ### in_vitro_data.csv
 Used for Figure 1A and 1B. The data were from in vitro infection experiments.
